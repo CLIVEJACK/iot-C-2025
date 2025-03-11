@@ -2,7 +2,7 @@
 //
 //int main()
 //{
-//	printf("Kim Dong Kuk");
+//	printf("¿õ³ª");
 //
 //	return 0;
 //}

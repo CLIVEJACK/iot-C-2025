@@ -18,5 +18,50 @@
     <ClCompile Include="frintf02.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="HelloWorld.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="name.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="name2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="printf01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="printf03.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="printf04.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="value.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="value2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="value3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="value4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="value5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="value6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Personal information.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -128,6 +128,21 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="frintf02.c" />
+    <ClCompile Include="HelloWorld.c" />
+    <ClCompile Include="name.c" />
+    <ClCompile Include="name2.c" />
+    <ClCompile Include="Personal information.c" />
+    <ClCompile Include="printf01.c" />
+    <ClCompile Include="printf03.cpp" />
+    <ClCompile Include="printf04.c" />
+    <ClCompile Include="scanf.c" />
+    <ClCompile Include="scanf2.c" />
+    <ClCompile Include="value.c" />
+    <ClCompile Include="value2.c" />
+    <ClCompile Include="value3.c" />
+    <ClCompile Include="value4.c" />
+    <ClCompile Include="value5.c" />
+    <ClCompile Include="value6.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

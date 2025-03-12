@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{f8d911e5-357b-4ed6-b8fb-6cc153361f81}</ProjectGuid>
-    <RootNamespace>Day1</RootNamespace>
+    <ProjectGuid>{f46fb7d8-1440-4573-87c6-d7aa9662a584}</ProjectGuid>
+    <RootNamespace>Day2</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,23 +127,24 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="frintf02.c" />
-    <ClCompile Include="HelloWorld.c" />
-    <ClCompile Include="name.c" />
-    <ClCompile Include="name2.c" />
-    <ClCompile Include="Personal information.c" />
-    <ClCompile Include="personal2.cpp" />
-    <ClCompile Include="printf01.c" />
-    <ClCompile Include="printf03.cpp" />
-    <ClCompile Include="printf04.c" />
-    <ClCompile Include="scanf.c" />
-    <ClCompile Include="scanf2.c" />
-    <ClCompile Include="value.c" />
-    <ClCompile Include="value2.c" />
-    <ClCompile Include="value3.c" />
-    <ClCompile Include="value4.c" />
-    <ClCompile Include="value5.c" />
-    <ClCompile Include="value6.c" />
+    <ClCompile Include="boingo.cpp" />
+    <ClCompile Include="casting.c" />
+    <ClCompile Include="else.c" />
+    <ClCompile Include="for.c" />
+    <ClCompile Include="forfor.c" />
+    <ClCompile Include="func.c" />
+    <ClCompile Include="func2.c" />
+    <ClCompile Include="func3.c" />
+    <ClCompile Include="func4.c" />
+    <ClCompile Include="gugudan.c" />
+    <ClCompile Include="if.c" />
+    <ClCompile Include="if2.c" />
+    <ClCompile Include="oper.c" />
+    <ClCompile Include="oper2.c" />
+    <ClCompile Include="shift.c" />
+    <ClCompile Include="switch.c" />
+    <ClCompile Include="bingo.c" />
+    <ClCompile Include="while.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

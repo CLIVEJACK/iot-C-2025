@@ -15,55 +15,58 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="frintf02.c">
+    <ClCompile Include="oper.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="HelloWorld.c">
+    <ClCompile Include="shift.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="name.c">
+    <ClCompile Include="casting.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="name2.c">
+    <ClCompile Include="oper2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="printf01.c">
+    <ClCompile Include="if.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="printf03.cpp">
+    <ClCompile Include="bingo.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="printf04.c">
+    <ClCompile Include="if2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="value.c">
+    <ClCompile Include="switch.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="value2.c">
+    <ClCompile Include="boingo.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="value3.c">
+    <ClCompile Include="for.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="value4.c">
+    <ClCompile Include="while.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="value5.c">
+    <ClCompile Include="else.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="value6.c">
+    <ClCompile Include="gugudan.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="scanf.c">
+    <ClCompile Include="forfor.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="scanf2.c">
+    <ClCompile Include="func.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Personal information.c">
+    <ClCompile Include="func2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="personal2.cpp">
+    <ClCompile Include="func3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="func4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

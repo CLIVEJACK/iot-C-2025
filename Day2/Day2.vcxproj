@@ -136,6 +136,7 @@
     <ClCompile Include="func2.c" />
     <ClCompile Include="func3.c" />
     <ClCompile Include="func4.c" />
+    <ClCompile Include="funsion.c" />
     <ClCompile Include="gugudan.c" />
     <ClCompile Include="if.c" />
     <ClCompile Include="if2.c" />

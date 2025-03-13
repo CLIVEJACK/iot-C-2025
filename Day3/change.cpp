@@ -12,6 +12,7 @@ int main()
 
 	printf("대문자: %c, 소문자: %c", ch1, ch2);
 
+	char val()
 
 	return 0;
 }

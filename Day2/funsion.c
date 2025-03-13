@@ -15,23 +15,23 @@ int main()
 	printf("두개의 정수를 입력하세요.\n");
 	scanf("%d %d", &x, &y);
 	printf("연산자를 입력하세요.\n");
-	scanf("%c", &id);
+	scanf(" %c", &id);
 	
 	switch (id) {
 	case '+':
-		val = add(a, b);
+		val = add(x, y);
 		break;
 	case '-':
-		val = sub(a, b);
+		val = sub(x, y);
 		break;
 	case '*':
-		val = mul(a, b);
+		val = mul(x, y);
 		break;
 	case '/':
-		val = div(a, b);
+		val = div(x, y);
 	}
 
-	printf("%d %c %d = %d", a, id, b, val);
+	printf("%d %c %d = %d", x, id, y, val);
 
 	return 0;
 }

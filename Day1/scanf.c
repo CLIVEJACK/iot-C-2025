@@ -8,7 +8,7 @@
 //{
 //	//int inputVal;
 //	//printf("정수를 입력하세요.:");
-//	//scanf("%d", &inputVal);				// scanf를 정의할때는 쓸때 변수앞에 주소연산자인 &를 써야함 
+//	//scanf("%d", &inputVal);				// scanf를 정의할때는 쓸때 변수앞에 주소연산자인 &를 써야함 문자열은 달필요없음
 //
 //	//printf("입력한 정수는 %d 입니다.\n", inputVal);
 //

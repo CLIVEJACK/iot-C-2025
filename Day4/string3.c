@@ -1,5 +1,6 @@
 ///*
 //	sccanf, gets는 공백을 포함하는 함수
+//  stdin - 표준 입력버퍼 (입력 스트림)
 //*/
 //
 //#define _CRT_SECURE_NO_WARNINGS

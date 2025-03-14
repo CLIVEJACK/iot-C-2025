@@ -172,5 +172,39 @@ Iot 개발자 c언어의 리포지토리
     - 문자열 상수는 주소이다 [C언어](./Day4/string2.c)
         - 문자열 상수는 변경불가능
         - 포인터로 변경이 가능하다
+    - 문자열 전용 프린트 함수
+        - gets : 공백을 포함하여 출력 [C언어](./Day4/string3.c)
+        - fgerts : 공백을 포함하여 출력 `fgets(str, sizeof(str), stdin)`stdin사용 [C언어](./Day4/string3.c)
+            - 입력스트림: stdin 표준 입력버퍼 
+        - puts : 자동 개행  [C언어](./Day4/string4.c)
+        - fputs : 개행 안됨 `fputs(str, stdout)` stdout사용 [C언어](./Day4/string4.c)
+            - 입력스트림: stdin 표준 입력버퍼
+        - 문자열 길이 계산 [C언어](./Day4/strlen.c)
+            - 선언 `strlen(배열)`
+        - 문자열 복사 함수 [C언어](./Day4/strcpy.c)
+            - 선언 `strcpy(복사, 원본)`  오른쪽의 값을 왼쪽에 저장함
+- 배열
+    - 2차원 배열 초기화  [C언어](./Day4/array.c)
+        - `int ary[행][열] = {}` 로 선언
+        - 행열에서 값이 비면 0으로 자동으로 채운다
+        - 행은 지정하지 않아도 되지만 열은 무조건 지정해줘야한다
+    - 2차원 char 배열  [C언어](./Day4/array2.c)
+        - 각행의 문자열을 저장한다 
+        
+- 배열 포인터 [C언어](./Day4/arraypointer.c)
+    - 배열을 가리키는 포인터 이다 
+    - 배열의 값을 나타낸다
+    - `int(* pary) = ary` 로 선언한다
+   
+- 이중포인터 [C언어](./Day4/dpointer.c) [C언어](./Day4/dpointer2.c) 
+    - `*`은 포인터 선언 과 해당 포인터가 가리키는 원래 값을 가져온다
+    - `&`은 그 변수가 가리키던 주소의 위치를 받는다
+    - 포인터를 지목하는 포인터 
+
+- 변수
+    - 전역변수: 프로그램 전체 [C언어](./Day4/strcpy.c)
+    - 지역변수: 블록안에서만 사용, 매개변수, 자동변수[C언어](./Day4/strcpy.c)
+    - 정적변수: 전역 + 지역 [C언어](./Day4/value2.c)
 
 
+## 5일차

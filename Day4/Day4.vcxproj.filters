@@ -18,7 +18,7 @@
     <ClCompile Include="char4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="char4_1.c">
+    <ClCompile Include="myStrInput.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="string.c">
@@ -28,6 +28,54 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="string3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="string4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="strcpy.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="mystrcpy.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="strlen.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="strcat.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="strcmp.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="value.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="value2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="myStudent.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="array2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointArray.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointerArray.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="dpointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="dpointer2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="arraypointer.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -29,5 +29,5 @@
 //	fgets(str, sizeof(str), stdin);				// stdin는 파일 입출력에 대해서 입력을 받는다
 //	printf("입력 문자열: %s\n", str);
 //
-//	return 0;
+//	//return 0;
 //}

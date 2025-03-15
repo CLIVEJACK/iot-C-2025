@@ -138,6 +138,7 @@
     <ClCompile Include="myStudent.cpp" />
     <ClCompile Include="pointArray.c" />
     <ClCompile Include="pointerArray.c" />
+    <ClCompile Include="stdent.cpp" />
     <ClCompile Include="strcat.c" />
     <ClCompile Include="strcmp.c" />
     <ClCompile Include="strcpy.c" />

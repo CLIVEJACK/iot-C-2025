@@ -28,7 +28,7 @@
 //	for (int i = 0; i < 4; i++) {
 //		for (int j = 0; j < 4; j++) {
 //			if (sum[i] < sum[j]) {
-//				rank[i] = rank[i] + 1;
+//				rank[i] = rank[i] + 1; 
 //			}
 //		}
 //	}

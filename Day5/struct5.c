@@ -1,5 +1,5 @@
 ///*
-//	시력을 입력해서 바뀐시력을 출력하는 문제?
+//	시력을 입력해서 바뀐시력을 출력하는 문제? 만들다 말았음
 //*/
 //#define _CRT_SECURE_NO_WARNINGS		
 //#include <stdio.h>

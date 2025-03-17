@@ -177,7 +177,7 @@ Iot 개발자 c언어의 리포지토리
         - 포인터로 변경이 가능하다
     - 문자열 전용 프린트 함수
         - gets : 공백을 포함하여 출력 [C언어](./Day4/string3.c)
-        - fgerts : 공백을 포함하여 출력 `fgets(str, sizeof(str), stdin)`stdin사용 [C언어](./Day4/string3.c)
+        - fgets : 공백을 포함하여 출력 `fgets(str, sizeof(str), stdin)`stdin사용 [C언어](./Day4/string3.c)
             - 입력스트림: stdin 표준 입력버퍼 
         - puts : 자동 개행  [C언어](./Day4/string4.c)
         - fputs : 개행 안됨 `fputs(str, stdout)` stdout사용 [C언어](./Day4/string4.c)

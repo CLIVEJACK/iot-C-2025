@@ -11,9 +11,12 @@
 //	int ary4[3][2] = { 1, 2, 3, 4, 5, 6 };
 //	int ary5[][4] = { {1, 2, 3, 4}, {5, 6, 7, 8} };				// 생략가능
 //
-//	for (int i = 0; i < 2; i++) {
+//	for (int i = 0; i < 3; i++) {
 //		for (int j = 0; j < 2; j++) {
-//			printf("%d, ", ary2[i][j]);
+//			if (i == 2 && j == 1) {
+//				printf("%d", ary2[i][j]);
+//			}
+//			else printf("%d, ", ary2[i][j]);
 //		}
 //	}
 //

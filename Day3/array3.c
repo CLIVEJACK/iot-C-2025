@@ -21,14 +21,14 @@
 //	printf("str나머지 방: %s\n", str[8]);			// 6개의 문자를 넣고 나머지는 Null로 채워짐 
 //
 //	//str = str2;								// 이거는 못한다 
-//	strcpy(str, str2);							// str2을 str1에다가 집어넣어라 
-//	printf("str: %s\n", str);
+//	//strcpy(str, str2);							// str2을 str1에다가 집어넣어라 
+//	//printf("str: %s\n", str);
 //
-//	strcpy(str, "dog");
-//	printf("str: %s\n", str);
-//	
-//	str[0] = 'D';								// "D"가 아니라 'D'이다 저장되어있는건 문자열이지만 캐럭터로 변경해야한다 
-//	printf("str: %s\n", str);
+//	//strcpy(str, "dog");
+//	//printf("str: %s\n", str);
+//	//
+//	//str[0] = 'D';								// "D"가 아니라 'D'이다 저장되어있는건 문자열이지만 캐럭터로 변경해야한다 
+//	//printf("str: %s\n", str);
 //
 //	return 0;
 //}

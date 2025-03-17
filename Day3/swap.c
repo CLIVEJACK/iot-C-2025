@@ -1,7 +1,7 @@
 //#include <stdio.h>
 //
-//
-//void swap(int*, int*);					// 함수 선언
+//void swap(int*, int*);	
+//// 함수 선언
 //int main()
 //{
 //	int a = 10;

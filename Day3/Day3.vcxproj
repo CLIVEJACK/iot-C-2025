@@ -134,6 +134,9 @@
     <ClCompile Include="char.c" />
     <ClCompile Include="char2.c" />
     <ClCompile Include="char3.c" />
+    <ClCompile Include="myagv.c" />
+    <ClCompile Include="mychange.c" />
+    <ClCompile Include="mypointprint.c" />
     <ClCompile Include="pointer.c" />
     <ClCompile Include="pointer2.c" />
     <ClCompile Include="pointer3.c" />

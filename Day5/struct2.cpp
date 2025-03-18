@@ -1,7 +1,7 @@
 ///*
 //
 //*/
-//#define 
+//#define _CRT_SECURE_NO_WARNINGS
 //#include <stdio.h>
 //#include <string.h>
 //#include <stdlib.h>
@@ -18,7 +18,7 @@
 //	struct mystruct s;				//mystruct 구조체 변수 선언
 //	strcpy(s.name, "엄준식");
 //	s.age = 30;
-//	s.height = 170;
+//	s.height = 170.2;
 //	s.str = (char*)malloc(sizeof(100));
 //	printf("인사말: ");
 //	gets(s.str);
